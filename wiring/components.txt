@@ -1,0 +1,11 @@
+5cmx7cm PCB
+arduino pro mini 5V
+
+Resistors
+---------
+3.3M
+10k x 3
+1k x 1
+220
+100
+
